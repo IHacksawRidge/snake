@@ -32,8 +32,3 @@ Make a copy of game "snake" on Python with library Pygame
 
 ## Game demo:
 <img src="assets/gameplay.gif" width="350" height="350" alt="gameplay"/>
-
-## Download:
-| Windows 7 - 11                                                                                   |
-|--------------------------------------------------------------------------------------------------|
-| [Download - (**exe**)](https://github.com/BaggerFast/Snake/releases/latest/download/Snake.exe) |
