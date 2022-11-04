@@ -1,5 +1,8 @@
 # PySnake
+
 ![Language](https://img.shields.io/badge/Language-Python3.9-yellow.svg?style=flat)
+[![Platform](https://img.shields.io/badge/Platform-Windows-red.svg?style=flat)]()
+
 ### The purpose:
 Make a copy of game "snake" on Python with library Pygame
 
