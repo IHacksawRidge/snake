@@ -1,9 +1,5 @@
 # PySnake
-
-
-### Clickable:
-[![BUILD-STATUS](https://github.com/BaggerFast/Snake/workflows/CI/badge.svg)](https://github.com/BaggerFast/Snake/actions?query=workflow%3Aci)
-[![Library](https://img.shields.io/badge/Library-pygame-green.svg?style=flat)](https://www.pygame.org/docs/)
+![Language](https://img.shields.io/badge/Language-Python3.9-yellow.svg?style=flat)
 
 ### The purpose:
 Make a copy of game "snake" on Python with library Pygame
