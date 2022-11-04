@@ -7,12 +7,9 @@
 Make a copy of game "snake" on Python with library Pygame
 
 ### Technology stack:
-- **Languages:**
-  - Python 3.9+
-- **Libraries:**
-  - Pygame
-- **Code Analyzers:**
-  - Pylint
+- Python 3.9+
+- Pygame
+- Pylint
 
 ### System requirements:
 - Linux | Mac OS | Windows
