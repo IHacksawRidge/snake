@@ -1,4 +1,4 @@
-# PySnake
+# Project Snake
 
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg?style=flat)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-red.svg?style=flat)]()
