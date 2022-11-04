@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows-red.svg?style=flat)]()
 
 ### The purpose of project:
-Make a copy of game "snake" on Python with library Pygame
+Make a copy of game "Snake" on Python with library Pygame
 
 ### Technology stack:
 - Python 3.9+
