@@ -1,7 +1,5 @@
 # PySnake
 
-![Language](https://img.shields.io/badge/Language-Python3.9-yellow.svg?style=flat)
-
 
 ### Clickable:
 [![BUILD-STATUS](https://github.com/BaggerFast/Snake/workflows/CI/badge.svg)](https://github.com/BaggerFast/Snake/actions?query=workflow%3Aci)
