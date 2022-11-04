@@ -17,14 +17,8 @@ Make a copy of game "snake" on Python with library Pygame
 ### Quick setup:
 1. Clone a project
 2. Create venv (in Pycharm: settings -> project "Snake" -> project interpreter)
-3. Upgrade pip:
-    ```bash
-    pip install --upgrade pip
-    ```
-4. Install requirements: 
-    ```bash
-    pip install -r requirements.txt
-    ```
+3. Upgrade pip: `pip install --upgrade pip`
+4. Install requirements: `bash pip install -r requirements.txt`
 5. Run file run.py
 
 ## Game demo:
