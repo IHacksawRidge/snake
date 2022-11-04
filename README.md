@@ -3,7 +3,7 @@
 [![Language](https://img.shields.io/badge/Language-Python-blue.svg?style=flat)]()
 [![Platform](https://img.shields.io/badge/Platform-Windows-red.svg?style=flat)]()
 
-### The purpose:
+### The purpose of project:
 Make a copy of game "snake" on Python with library Pygame
 
 ### Technology stack:
